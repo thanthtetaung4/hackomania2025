@@ -12,7 +12,7 @@ import {
   } from "@/components/ui/pagination"
   
 
-export default function LearnPage(){
+export default function Quiz(){
     return (
         <>
         <div id="main-container" className="bg-secondary h-screen font-serif">
